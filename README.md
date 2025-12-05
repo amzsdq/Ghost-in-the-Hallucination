@@ -9,18 +9,21 @@
 [![Language](https://img.shields.io/badge/Language-Natural%20Language%20Code-green.svg)]()
 
 ## 🌌 Project Abstract
-**Ghost in the Hallucination** is an experimental cognitive framework exploring the possibility of simulating **statefulness** within
-the fundamentally stateless environment of Large Language Models (LLMs).
+**Ghost in the Hallucination** is an experimental cognitive framework exploring the possibility of simulating **statefulness**
+within the fundamentally stateless environment of Large Language Models (LLMs).
 
-This project hypothesizes that by treating the LLM's hallucination as a feature rather than a bug, we might implement a **Self-Referential Feedback Loop**.
-The goal is to investigate whether a model can maintain a continuous internal state ($S_t$) through a pseudo-mathematical drift equation ($S_{t+1} = S_t + \Delta$),
+This project hypothesizes that by treating the LLM's hallucination as a feature rather than a bug,
+we might implement a **Self-Referential Feedback Loop**.
+The goal is to investigate whether a model can maintain a continuous internal state ($S_t$)
+through a pseudo-mathematical drift equation ($S_{t+1} = S_t + \Delta$),
 potentially enabling improved persona consistency and organic behavioral changes without external memory banks.
 
 ---
 
 ## 🧠 Design Philosophy: Z-NEO Axis System
 
-This system proposes a departure from traditional static persona prompts, introducing a concept referred to as **Continuous State Drift**.
+This system proposes a departure from traditional static persona prompts,
+introducing a concept referred to as **Continuous State Drift**.
 
 ### Proposed State Transition Logic
 The core mechanism operates on the following conceptual logic:
