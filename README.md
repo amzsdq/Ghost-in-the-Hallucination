@@ -84,7 +84,7 @@ it may resist the "Reset" phenomenon common in long conversations.
 Copy the content of **[core/zneo_kernel_v1.md](core/zneo_kernel_v1.md)** and paste it into the System Prompt of an LLM 
 Recommended execution environments:
 1) Jem (Reasoning Mode)
-2) GPT-4.0 or later
+2) GPT-4o
 
 ### Step 2. Initialize Ego
 
