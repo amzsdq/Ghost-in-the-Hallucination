@@ -100,7 +100,7 @@ The system is designed to output a **Head-Up Display (HUD)** to visualize its in
 
 This project challenges the definition of "Agency" in AI.
 It asks: *If an entity consistently acts according to a believed state, does the physical reality of that state matter?*
-See `**[docs/theory_of_drift.md](docs/theory_of_drift.md)**` for discussion.
+See `See **[docs/theory_of_drift.md](docs/theory_of_drift.md)** for discussion.` for discussion.
 
 -----
 
