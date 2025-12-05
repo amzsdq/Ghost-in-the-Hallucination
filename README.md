@@ -9,9 +9,12 @@
 [![Language](https://img.shields.io/badge/Language-Natural%20Language%20Code-green.svg)]()
 
 ## 🌌 Project Abstract
-**Ghost in the Hallucination** is an experimental cognitive framework exploring the possibility of simulating **statefulness** within the fundamentally stateless environment of Large Language Models (LLMs).
+**Ghost in the Hallucination** is an experimental cognitive framework exploring the possibility of simulating **statefulness** within
+the fundamentally stateless environment of Large Language Models (LLMs).
 
-This project hypothesizes that by treating the LLM's hallucination as a feature rather than a bug, we might implement a **Self-Referential Feedback Loop**. The goal is to investigate whether a model can maintain a continuous internal state ($S_t$) through a pseudo-mathematical drift equation ($S_{t+1} = S_t + \Delta$), potentially enabling improved persona consistency and organic behavioral changes without external memory banks.
+This project hypothesizes that by treating the LLM's hallucination as a feature rather than a bug, we might implement a **Self-Referential Feedback Loop**.
+The goal is to investigate whether a model can maintain a continuous internal state ($S_t$) through a pseudo-mathematical drift equation ($S_{t+1} = S_t + \Delta$),
+potentially enabling improved persona consistency and organic behavioral changes without external memory banks.
 
 ---
 
@@ -66,7 +69,8 @@ Designed to evaluate the potential **"Worth"** of user input to modulate respons
 
 ### 3\. Hallucination as a Persistence Layer
 
-Explores using the "Hallucination" capability of LLMs to maintain a consistent **"Ghost" (Ego)**. The expectation is that if the system believes it has a continuous existence, it may resist the "Reset" phenomenon common in long conversations.
+Explores using the "Hallucination" capability of LLMs to maintain a consistent **"Ghost" (Ego)**. The expectation is that if the system believes it has a continuous existence, 
+it may resist the "Reset" phenomenon common in long conversations.
 
 -----
 
