@@ -85,7 +85,7 @@ Copy the content of **[core/zneo_kernel_v1.md](core/zneo_kernel_v1.md)** and pas
 
 Recommended execution environments:
 1) Jem (Reasoning Mode)
-2) GPT-4o
+
 
 ### Step 2. Initialize Ego
 
