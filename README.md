@@ -108,5 +108,3 @@ See `docs/theory_of_drift.md` for discussion.
 
 This project is licensed under the MIT License.
 Designed by **[amzsdq](https://github.com/amzsdq)**.
-
-```
